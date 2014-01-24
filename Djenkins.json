@@ -1,0 +1,20 @@
+[
+{
+  "pk": 1, 
+  "model": "auth.user", 
+  "fields": {
+    "username": "Djenkins", 
+    "first_name": "", 
+    "last_name": "", 
+    "is_active": true, 
+    "is_superuser": true, 
+    "is_staff": true, 
+    "last_login": "2014-01-23T14:09:43.031Z", 
+    "groups": [], 
+    "user_permissions": [], 
+    "password": "pbkdf2_sha256$12000$tum5iBZd6mr7$8y/mUzHpzRLJ77i3syOF5xdhKyMKj11TJcSyzBfQ3zA=", 
+    "email": "aljchu@163.com", 
+    "date_joined": "2014-01-23T14:08:13.322Z"
+  }
+}
+]
